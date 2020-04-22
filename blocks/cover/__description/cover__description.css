@@ -1,0 +1,30 @@
+.cover__description {
+    display: flex;
+    max-width: 1182px;
+    width: 100%;
+    flex-direction: column;
+    position: absolute;
+ /* bottom: 0;
+    left: 0;
+    justify-content: center; 
+    align-items: center;
+    text-align: center; */
+}
+
+/* .cover__background {
+    max-width: 1184px; 
+    max-height: 740px;
+    width: 100%;
+    margin: 0px auto;
+    position: relative;
+    background-position: center;
+    object-fit: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+} */

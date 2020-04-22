@@ -1,0 +1,14 @@
+
+@import url(./_active/link_active.css);
+
+.link {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 18px;
+}
+
+.link:hover { 
+    opacity: .8;
+    /* animation: rotation 20s linear infinite; */
+    transition: 2s linear; 
+}

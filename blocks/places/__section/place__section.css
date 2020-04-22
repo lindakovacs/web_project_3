@@ -1,0 +1,7 @@
+.place__section {
+    width: 100%;
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+/*  color: #FFFFFF; */
+}

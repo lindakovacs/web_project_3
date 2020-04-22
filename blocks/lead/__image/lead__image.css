@@ -1,0 +1,13 @@
+@import url(./-photo/lead__image-photo.css);
+
+.lead__image {
+    /* width:100%; */
+    object-fit: cover;
+    /* max-height: 615px; */
+    /* display: block; */
+    margin: 64px auto 114px auto;
+    max-width: 984px;
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+}
