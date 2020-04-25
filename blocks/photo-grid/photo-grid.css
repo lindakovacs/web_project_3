@@ -1,16 +1,10 @@
 @import url('./__item/photo-grid__item.css');
+@import url('./__list/photo-grid__list.css');
 
-.photo-grid {
+/* .photo-grid {
     max-width: 1184px;
     width: 92.5%;
     margin: 92px auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
-    grid-gap: 1rem;
-    /* grid-gap: 16px;
-    justify-content: space-between;
-    grid-template-rows: repeat(3, auto);
-    grid-template-columns: repeat(4, auto); 
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);*/
-}
+    display: flex;
+    justify-content: center;
+} */

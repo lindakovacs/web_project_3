@@ -2,12 +2,22 @@
 
 .lead__image {
     /* width:100%; */
-    object-fit: cover;
+    /* object-fit: cover; */
     /* max-height: 615px; */
     /* display: block; */
-    margin: 64px auto 114px auto;
-    max-width: 984px;
+    /* margin: 64px auto 114px auto; */
+    /* max-width: 984px;
     display: flex;
     flex-flow: column;
-    margin: auto;
+    margin: auto;  */
+    /* max-width: 984px; */
+    padding: 0;
+    margin: 0;
+    width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    .lead__image {
+      width: auto;
+    }
+  } 

@@ -7,6 +7,9 @@
     font-size: 72px;
     line-height: 76px;
     align-items: center;
+    z-index: 1;
+    color: #FFFDFD;
+    text-decoration: none;
 /*  text-align: center;
     display: flex;
     justify-content: center;

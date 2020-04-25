@@ -1,19 +1,24 @@
-@import url(/vendor/fonts/Inter/inter.css);
+/* @import url(/vendor/fonts/Inter/inter.css); */
 
 .root{
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   background-color: #2A2C2F;
+  color: #FFFFFF;
   max-width: 1280px;
   min-width: 320px;
   margin: 0 auto;
   font-family: 'Inter', sans-serif;
-  color: #FFFFFF;
-  /* position: relative;
-  display: flex;
+
+  /* position: relative; */
+  /* display: flex;
   justify-content:center;
-  align-items: center; */
+  align-items: center; 
+  align-self: center; */
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
+
 
 /* Widths to use for breakpoints
 1280px and higher (standard laptops and beyond).
@@ -24,9 +29,9 @@ Up to 425px (mobile devices).
 */
 
 /* For Testing purpose only */	
-div, ul, img, h1, h2, h3, h4 {	
+/* div, ul, img, h1, h2, h3, h4 {	
     border: 1px solid red;	
 }	
 section, li, p {	
     border: 1px solid blue;	
-}
+} */

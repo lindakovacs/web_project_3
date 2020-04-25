@@ -5,12 +5,16 @@
 @import url('./__list-text/intro__list-text.css');
 @import url('./__span-accent/intro__span-accent.css');
 
-.intro{
+.intro {
     max-width: 690px;
-    width: 92.5%;
-    margin-top: 114px;
-    margin-left: 148px;
-    position: relative;
+    width: 100%;
+    margin: 114px auto 0 148px;
+    /* margin-top: 114px;
+    margin-left: 148px; */
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
 }
 
 @media screen and (max-width: 1024px) {

@@ -6,7 +6,9 @@
     line-height: 18px;
     color: #FFFFFF;
     text-decoration: none;
-    display: block;
+    display: flex; 
+    justify-content: space-between;
+    padding-right: 10px;
 }
 
 @media screen and (max-width: 320px) {
