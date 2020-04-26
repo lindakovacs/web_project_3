@@ -1,15 +1,25 @@
-@import url('./__list/places__list.css');
-
 .places {
-    margin: 92px auto 0;
-    max-width: 984px;
-    width: 92.5%;
-    /* padding-left: 0; */
-    /* align-items: center; */
+  width: calc(100% - 148px*2);
+  margin: 0;
+  padding: 0;
+  margin-bottom: 92px;
 }
 
-@media screen and (max-width: 320px) {
-    .places {
-        width: 100%;
-    }
+@media screen and (max-width: 1279px) {
+  .places {
+    width: calc(100% - 48px*2);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    width: calc(100% - 24px*2);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    width: 100%;
+    margin-bottom: 64px;
+  }
 }

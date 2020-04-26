@@ -1,15 +1,5 @@
 .intro__list-text {
-    margin: 0px 0px;
-    font-size: 12px;
-    line-height: 18px;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1.5; 
-}
-
-@media screen and (max-width: 768px) {
-    .intro__content-row{
-        width: 100%;
-        margin: auto;
-    }
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.5;
 }

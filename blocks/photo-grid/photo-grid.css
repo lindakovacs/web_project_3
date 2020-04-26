@@ -1,10 +1,7 @@
-@import url('./__item/photo-grid__item.css');
-@import url('./__list/photo-grid__list.css');
+@import url('__item/photo-grid__item.css');
+@import url('__list/photo-grid__list.css');
 
-/* .photo-grid {
-    max-width: 1184px;
-    width: 92.5%;
-    margin: 92px auto;
-    display: flex;
-    justify-content: center;
-} */
+.photo-grid {
+  box-sizing: border-box;
+  width: calc(100% - 48px*2);
+}

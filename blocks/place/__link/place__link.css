@@ -1,22 +1,5 @@
 .place__link {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 22px;
-    margin-top: 8px;
-    text-decoration-line: underline;
-    color: #FFF;
-    width: 46.7%;
-    vertical-align: center;
-    /* display: block;
-    margin: 12px 0 0;
-    color: #FFF;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end; */
-  }
-  @media screen and (max-width: 320px) {
-    .place__link {
-        display: none;
-    }
+  font-size: 18px;
+  line-height: 1.22;
+  text-decoration: underline;
 }
