@@ -42,4 +42,6 @@ The way you'll do this at work is by exporting images directly from Figma — we
 Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
 
 ### Demo
-Demo link TBD (To be done): [Instructions](https://practicum.yandex.com/trainer/web/lesson/bc2c40fa-5314-4971-a209-2c877af89e64)
+[Demo link](https://lindakovacs.github.io/web_project_3/)
+
+[Instructions](https://practicum.yandex.com/trainer/web/lesson/bc2c40fa-5314-4971-a209-2c877af89e64)
