@@ -17,6 +17,7 @@
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 768px) {
@@ -30,6 +31,7 @@
     min-width: 320px;
   }
 } */
+
 /* Widths to use for breakpoints
 1280px and higher (standard laptops and beyond).
 From 1024px to 1280px (from a tablet in landscape to a standard laptop).
