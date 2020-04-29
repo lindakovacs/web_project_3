@@ -38,10 +38,7 @@ The site was made up according to the Figma layout
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. 
-Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+Export images directly from Figma and optimize them [here](https://tinypng.com/), so your project loads faster. 
 
 ### Demo
 [Demo link](https://lindakovacs.github.io/web_project_3/)
-
-[Instructions](https://practicum.yandex.com/trainer/web/lesson/bc2c40fa-5314-4971-a209-2c877af89e64)

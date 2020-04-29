@@ -18,6 +18,12 @@
 
 @media screen and (max-width: 768px) {
   .footer {
+    width: calc(100% - 16px*2);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .footer {
     display: block;
     width: 100%;
     min-width: 168px;

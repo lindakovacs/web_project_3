@@ -5,14 +5,8 @@
 @import url('__caption/lead__caption.css');
 
 .lead {
-  width: calc(100vw - 148px*2);
+  width: calc(100% - 148px*2);
   margin-bottom: 114px; 
-  /*  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
-  box-sizing: border-box;
-  width: 100%;  */
 }
 
 @media screen and (max-width: 1140px) {
@@ -29,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .lead {
     margin-bottom: 64px;
   }

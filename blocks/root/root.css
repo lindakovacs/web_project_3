@@ -7,10 +7,6 @@
   font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
-  /* position: relative; */
-  /* display: flex;
-  justify-content:center;
-  align-items: center; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -moz-text-size-adjust: 100%;
@@ -25,12 +21,6 @@
     min-width: 320px;
   }
 }
-
-/* @media screen and (max-width: 320px) {
-  .root {
-    min-width: 320px;
-  }
-} */
 
 /* Widths to use for breakpoints
 1280px and higher (standard laptops and beyond).
